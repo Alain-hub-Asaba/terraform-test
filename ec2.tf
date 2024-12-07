@@ -1,5 +1,5 @@
 # terraform-test 
-terraform learning
+#terraform learning
 
 resource "aws_instance" "web2" {
   ami           = "ami-0453ec754f44f9a4a"
